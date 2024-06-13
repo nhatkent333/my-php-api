@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/fetch-metadata",
+      "dest": "/api/fetch_metadata.php"
+    }
+  ]
+}
